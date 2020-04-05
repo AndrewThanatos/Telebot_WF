@@ -1,4 +1,4 @@
-TOKEN = '1059116279:AAEO_QBjqtPrTUkWG357XHWdghDmPlbyHSY'
+TOKEN = <api_token>
 
 commands = {
     'start':    'Run this command for begin',
